@@ -1,0 +1,12 @@
+A Symfony Orchestra
+===================
+
+`/sBin/orchestra` is SF 2.x skeleton to rapidly develop websites based on http://symfony.com[Symfony] framework.
+
+Requirements
+------------
+* PHP 5.4+
+
+License
+-------
+orchestra is licensed under the [MIT License](http://slashsbin.mit-license.org/).
